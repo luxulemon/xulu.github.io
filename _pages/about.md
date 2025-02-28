@@ -31,11 +31,11 @@ redirect_from:
 
 2.L. Xu, S. Shi*, W. Gong, et al., Improving leaf chlorophyll content estimation through constrained PROSAIL model from airborne hyperspectral and LiDAR data[J]. International Journal of Applied Earth Observation and Geoinformation, 2022, 115: 103128.
 
-3. S. Shi,L. Xu*, W. Gong, et al., A convolution neural network for forest leaf chlorophyll and carotenoid estimation using hyperspectral reflectance[J]. International Journal of Applied Earth Observation and Geoinformation, 2022, 108: 102719.
+3.S. Shi,L. Xu*, W. Gong, et al., A convolution neural network for forest leaf chlorophyll and carotenoid estimation using hyperspectral reflectance[J]. International Journal of Applied Earth Observation and Geoinformation, 2022, 108: 102719.
 
-4. L. Xu, Y. S. Hong, et al., Estimation of organic carbon in anthropogenic soil by VIS-NIR spectroscopy: Effect of variable selection[J]. Remote Sensing, 2020, 12(20): 3394.
+4.L. Xu, Y. S. Hong, et al., Estimation of organic carbon in anthropogenic soil by VIS-NIR spectroscopy: Effect of variable selection[J]. Remote Sensing, 2020, 12(20): 3394.
 
-5. L. Xu, Y.Y. Chen*, et al., Multi-structure joint decision-making approach for land use classification of high-resolution remote sensing images based on CNNs[J]. IEEE Access, 2020, 8: 42848-42863.
+5.L. Xu, Y.Y. Chen*, et al., Multi-structure joint decision-making approach for land use classification of high-resolution remote sensing images based on CNNs[J]. IEEE Access, 2020, 8: 42848-42863.
 
 6.L. Xu, Y. Chen*, Y. Hong, Y. Wei, L. Guo, M. Linderman. Estimation of Soil Organic Carbon Content by Imaging Spectroscopy With Soil Roughness [J]. SPECTROSCOPY AND SPECTRAL ANALYSIS, 2022, 42(9): 2788-2794.
 
